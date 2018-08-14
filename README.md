@@ -1,6 +1,8 @@
 # iOSLPDemo
 横竖屏切换的例子
-
+ ![image](https://github.com/goodcyg/OSLPDemo/blob/master/pic1.jpeg) 
+ ![image](https://github.com/goodcyg/OSLPDemo/blob/master/pic2.jpeg)
+ ![image](https://github.com/goodcyg/OSLPDemo/blob/master/pic3.jpeg)
 ## AppDelegate 
 ```
 - (UIInterfaceOrientationMask)application:(UIApplication *)application
